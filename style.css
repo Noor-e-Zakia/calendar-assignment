@@ -1,0 +1,17 @@
+body{
+    background-image: url(Assets/background-img.jpg);
+    background-size: cover;    
+    
+}
+
+tbody tr th{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table tbody tr td:hover{
+    background-color: rgb(181, 211, 181);
+    border-radius: 50px;
+}
+button a {
+    text-decoration: none;
+    color: white;
+}
